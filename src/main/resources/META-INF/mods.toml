@@ -1,0 +1,16 @@
+modLoader="javafml" #mandatory
+loaderVersion="[25,)" #mandatory
+
+[[mods]] #mandatory
+
+modId="forgeserverlock" #mandatory
+
+version="${file.jarVersion}" #mandatory
+
+displayName="Forge Server Lock" #mandatory
+
+authors="Eleksploded" #optional
+
+description='''
+Simple server mod to prevent new players from logging in
+'''
